@@ -1,0 +1,5 @@
+{
+  "name": "AI Edu-Generator",
+  "description": "An AI-powered tool to automatically generate high-quality educational materials like study guides and quizzes based on user-defined topics, difficulty levels, and desired length.",
+  "requestFramePermissions": []
+}
